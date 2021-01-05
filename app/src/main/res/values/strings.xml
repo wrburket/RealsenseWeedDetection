@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weed Detection</string>
+    <string name="main_title">Weed Detection</string>
+    <string name="file_page">File Manager</string>
+    <string name="export">Export File</string>
+    <string name="delete_b">Delete File</string>
+    <string name="to_file">Files</string>
+    <string name="configure_camera">Configure Camera</string>
+    <string name="record">Record</string>
+    <string name="intel">Intel</string>
+    <string name="gopro">GoPro</string>
+    <string name="directories">Directories</string>
+    <string name="camera_connected">Camera: Not Connected</string>
+    <string-array name="RGB_res">
+        <item>1280x720</item>
+        <item>640x480</item>
+        <item>848x640</item>
+        <item>424x240</item>
+    </string-array>
+    <string-array name="depth_res">
+        <item>640x480</item>
+        <item>848x640</item>
+        <item>256x144</item>
+    </string-array>
+    <string-array name="FPS">
+        <item>30</item>
+        <item>60</item>
+        <item>15</item>
+    </string-array>
+</resources>

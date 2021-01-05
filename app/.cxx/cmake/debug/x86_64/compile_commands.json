@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/willburket/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/Users/willburket/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/willburket/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c \"/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/src/main/cpp/native-lib.cpp\"",
+  "file": "/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/src/main/cpp/native-lib.cpp"
+}
+]

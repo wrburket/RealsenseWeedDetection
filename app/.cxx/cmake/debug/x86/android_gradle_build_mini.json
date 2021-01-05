@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/willburket/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/willburket/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/willburket/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/willburket/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/willburket/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

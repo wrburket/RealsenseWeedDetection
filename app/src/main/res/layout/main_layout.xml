@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_front_page">
+
+    <TextView
+        android:textColor="@color/light"
+        android:background="@color/black"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text="@string/main_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <TextView
+        android:id="@+id/camera_connected"
+        android:text="@string/camera_connected"
+        android:textSize="20sp"
+        android:textColor="@color/red"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <TextView
+        android:id="@+id/date"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <TextView
+        android:id="@+id/location"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        android:layout_marginTop="25dp"
+        android:id="@+id/linearLayout">
+        <Button
+            android:id="@+id/toCameraSelect"
+            android:layout_marginBottom="10dp"
+            android:text="@string/configure_camera"
+            android:layout_width="150dp"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_marginTop="50dp"
+            android:text="@string/to_file"
+            android:id="@+id/toFilePage"
+            android:layout_width="100dp"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

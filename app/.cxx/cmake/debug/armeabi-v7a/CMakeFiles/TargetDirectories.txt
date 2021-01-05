@@ -1,0 +1,3 @@
+/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir

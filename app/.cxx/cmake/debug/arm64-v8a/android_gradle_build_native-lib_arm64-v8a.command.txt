@@ -1,0 +1,7 @@
+Executable : /Users/willburket/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/willburket/Downloads/3DWeeds-master 2/App_General/MyApplication/app/.cxx/cmake/debug/arm64-v8a
+native-lib
+jvmArgs : 
+
